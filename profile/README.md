@@ -1,6 +1,6 @@
 # tolokacode
 
-Free, open-source tools made by Ukrainians, for Ukrainians.
+Free, open-source plugins and tools for the services shops in Ukraine use, like monobank.
 
 *Toloka* (толока) is an old Ukrainian tradition. When someone needed to build a house or bring
 in the harvest, the whole village came to help, for free. We do the same with code.
