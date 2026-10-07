@@ -55,5 +55,6 @@ If you already pushed several commits, run `git rebase --signoff main` and then 
 
 ## License
 
-By contributing, you agree that your work is shared under the project's license,
-[EUPL-1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
+By contributing, you agree that your work is shared under the license of that repository:
+[EUPL-1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12) for plugins and apps, [MIT](https://opensource.org/license/mit) for libraries.
+Each repository has its license in the `LICENSE` file.

@@ -18,4 +18,5 @@ More to come: plugins, Python and Django packages, command-line tools.
 Found a bug or have an idea? Open an issue. Want to help with code? Start with the
 [contributing guide](https://github.com/tolokacode/.github/blob/main/CONTRIBUTING.md).
 
-Our code is licensed under the European Union Public Licence ([EUPL-1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12)).
+Plugins and apps are licensed under the European Union Public Licence ([EUPL-1.2](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12)).
+Libraries, like our npm packages, are licensed under [MIT](https://opensource.org/license/mit).
